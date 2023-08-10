@@ -4,10 +4,11 @@ This repository contains all the resources and my hand typed notes, codes that I
 
 ## Content
 
-| ID  | Name                   | Directory                                                |
-| --- | ---------------------- | -------------------------------------------------------- |
-| 1   | Basic                  | [Folder](./PHP%20Front%20To%20Back/Part%201/)            |
-| 2   | Installation for XAMPP | [Folder](./PHP%20Front%20To%20Back/Part%202/)            |
-| 3   | Variables              | [Folder](./PHP%20Front%20To%20Back/Part%203/phpsandbox)  |
-| 4   | Arrays                 | [Folder](./PHP%20Front%20To%20Back/Part%204/phpsandbox/) |
-| 5   | Loops                  | [Folder](./PHP%20Front%20To%20Back/Part%205/phpsandbox/) |
+| ID  | Name                   | Directory                                                           |
+| --- | ---------------------- | ------------------------------------------------------------------- |
+| 1   | Basic                  | [Docs](./PHP%20Front%20To%20Back/Part%201/README.md)                |
+| 2   | Installation for XAMPP | [Docs](./PHP%20Front%20To%20Back/Part%202/README.md)                |
+| 3   | Variables              | [Code](./PHP%20Front%20To%20Back/Part%203/phpsandbox/variables.php) |
+| 4   | Arrays                 | [Code](./PHP%20Front%20To%20Back/Part%204/phpsandbox/arrays.php)    |
+| 5   | Loops                  | [Code](./PHP%20Front%20To%20Back/Part%205/phpsandbox/loops.php)     |
+| 6   | Functions              | [Code](./PHP%20Front%20To%20Back/Part%206/phpsandbox/functions.php) |
