@@ -53,3 +53,15 @@
 * Access control
 * Encrypt data
 * Almost anything else
+
+
+## What can you build with PHP?
+
+* Basic websites
+* Blog type websites
+* Shopping carts
+* Social networks
+* Content Management System
+* Membership Websites
+* Search engines
+* Backend APIs
