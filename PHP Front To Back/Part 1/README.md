@@ -43,3 +43,13 @@
 * Database Compatibility
 
 
+## What can PHP do?
+
+* Create dynamic page content
+* Interact with files on the server
+* Collect & process forms
+* Send/receive cookies
+* Interact with databases
+* Access control
+* Encrypt data
+* Almost anything else
