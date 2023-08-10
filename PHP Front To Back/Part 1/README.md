@@ -31,3 +31,15 @@
 
 ![](2023-08-10_15-31.png)
 
+
+## Why use PHP?
+
+* Easy to learn
+* Free & Open Source
+* Great Support
+* Cross Platform
+* Freedom
+* Frameworks
+* Database Compatibility
+
+
