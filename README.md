@@ -12,3 +12,4 @@ This repository contains all the resources and my hand typed notes, codes that I
 | 4   | Arrays                 | [Code](./PHP%20Front%20To%20Back/Part%204/phpsandbox/arrays.php)    |
 | 5   | Loops                  | [Code](./PHP%20Front%20To%20Back/Part%205/phpsandbox/loops.php)     |
 | 6   | Functions              | [Code](./PHP%20Front%20To%20Back/Part%206/phpsandbox/functions.php) |
+| 7   | Conditions             | [Code](./PHP%20Front%20To%20Back/Part%207/sandbox/conditions.php)   |
