@@ -15,3 +15,4 @@ This repository contains all the resources and my hand typed notes, codes that I
 | 7   | Conditions             | [Code](./PHP%20Front%20To%20Back/Part%207/sandbox/conditions.php)   |
 | 8   | Date                   | [Code](./PHP%20Front%20To%20Back/Part%208/sandbox/date.php)         |
 | 9   | Include & Require      | [Directory](./PHP%20Front%20To%20Back/Part%209/website1/)           |
+| 10  | $\_SERVER Superglobal  | [Directory](./PHP%20Front%20To%20Back/Part%2010/website2/)          |
