@@ -19,3 +19,4 @@ This repository contains all the resources and my hand typed notes, codes that I
 | 11  | Get Post               | [Directory](./PHP%20Front%20To%20Back/Part%2011/sandbox/)                |
 | 12  | String Functions       | [Code](./PHP%20Front%20To%20Back/Part%2012/sandbox/string_functions.php) |
 | 13  | Shorthands             | [Code](./PHP%20Front%20To%20Back/Part%2013/sandbox/shorthands.php)       |
+| 14  | Filters & Validation   | [Code](./PHP%20Front%20To%20Back/Part%2014/sandbox/filters.php)          |
