@@ -20,3 +20,9 @@ This repository contains all the resources and my hand typed notes, codes that I
 | 12  | String Functions       | [Code](./PHP%20Front%20To%20Back/Part%2012/sandbox/string_functions.php) |
 | 13  | Shorthands             | [Code](./PHP%20Front%20To%20Back/Part%2013/sandbox/shorthands.php)       |
 | 14  | Filters & Validation   | [Code](./PHP%20Front%20To%20Back/Part%2014/sandbox/filters.php)          |
+
+
+-------
+
+I didn't continue learning PHP after this point.  <br>
+<u>Reason</u>: I didn't like this language even for a single bit. Also, pressing the `$` sign using a **BLUE** switch based mechanical keyboard repeatedly caused me strain so much that I can't even use my that finger normally. I had to use my left hand's index finger to press the `$` sign. I know it's a very lame reason but I can't help it. As I'm not going to continue learning PHP, I'm not going to continue this repository, and therefore, I'm going to archive it. 
